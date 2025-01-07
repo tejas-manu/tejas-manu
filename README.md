@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @tejas-manu
 - 👀 Worked as a DevOps Engineer
-- 🏫 Currently pursuing master's in the USA
-- ⏩ Quick Learner
+- 🏫 Masters in Computer Science (Cybersecurity)
 - 🧠 Interested in DevOps, DevSecOps and SDE roles
-- 🌱 Actively looking for Internship/Job in Maryland or Remote
+- 🌱 Actively looking for Job in the United States
 - 💞️ I’m looking to collaborate on DevOps related Projects
-- 📫 Reach me at tejasmanu.s07@gmail.com
+- 📫 Reach me at tejasmanus.12@gmail.com
 - 🔗 You can drop in my LinkedIn as well: https://www.linkedin.com/in/tejas-manu-s-5291921a0
 
 <!---
